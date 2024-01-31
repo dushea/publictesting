@@ -1,0 +1,400 @@
+{
+  "Montreal": { 
+    "Edge Deduction":{
+      "Torsion Spring Panels": ".016"
+    },
+    "Sheet Metal Bending Properties": {
+      "Aluminum 3003-H14, 24 Ga.": {
+        "Name": "Aluminum 3003-H14, 24 Ga.",
+        "Index": 1,
+        "Thickness": "0.02",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.009",
+        "BD (90)": "0.0345",
+        "BA (90)": "0.0235",
+        "K-Factor (up to 170')": "0.298028"
+      }, 
+
+      "Aluminum 3003-H14, 20 Ga.": {
+        "Name": "Aluminum 3003-H14, 20 Ga.",
+        "Index": 2,
+        "Thickness": "0.032",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.01440",
+        "BD (90)": "0.05325",
+        "BA (90)": "0.03955",
+        "K-Factor (up to 170')": "0.336822"
+      }, 
+
+      "Aluminum 3003-H14, 18 Ga.": {
+        "Name": "Aluminum 3003-H14, 18 Ga.",
+        "Index": 3,
+        "Thickness": "0.04",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.018",
+        "BD (90)": "0.066",
+        "BA (90)": "0.05",
+        "K-Factor (up to 170')": "0.345775"
+      }, 
+
+      "Aluminum 3003-H14, 16 Ga.": {
+        "Name": "Aluminum 3003-H14, 16 Ga.",
+        "Index": 4,
+        "Thickness": "0.05",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02250",
+        "BD (90)": "0.07938",
+        "BA (90)": "0.06562",
+        "K-Factor (up to 170')": "0.385500"
+      }, 
+
+      "Aluminum 3003-H14, 14 Ga.": {
+        "Name": "Aluminum 3003-H14, 14 Ga.",
+        "Index": 5,
+        "Thickness": "0.064",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02880",
+        "BD (90)": "0.099750",
+        "BA (90)": "0.08585",
+        "K-Factor (up to 170')": "0.403966"
+      }, 
+
+      "Aluminum 3003-H14, 12 Ga.": {
+        "Name": "Aluminum 3003-H14, 12 Ga.",
+        "Index": 6,
+        "Thickness": "0.08",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.0360",
+        "BD (90)": "0.123750",
+        "BA (90)": "0.10825",
+        "K-Factor (up to 170')": "0.411426"
+      }, 
+
+      "Aluminum 3003-H14, 8 Ga.": {
+        "Name": "Aluminum 3003-H14, 8 Ga.",
+        "Index": 7,
+        "Thickness": "0.128",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.05760",
+        "BD (90)": "0.193000",
+        "BA (90)": "0.17820",
+        "K-Factor (up to 170')": "0.436294"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 24 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 24 Ga.",
+        "Index": 8,
+        "Thickness": "0.028",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.01764",
+        "BD (90)": "0.049375",
+        "BA (90)": "0.04191",
+        "K-Factor (up to 170')": "0.322770"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 22 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 22 Ga.",
+        "Index": 9,
+        "Thickness": "0.034",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02142",
+        "BD (90)": "0.055500",
+        "BA (90)": "0.05534",
+        "K-Factor (up to 170')": "0.406192"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 20 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 20 Ga.",
+        "Index": 10,
+        "Thickness": "0.040",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02520",
+        "BD (90)": "0.065500",
+        "BA (90)": "0.06490",
+        "K-Factor (up to 170')": "0.402916"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 18 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 18 Ga.",
+        "Index": 11,
+        "Thickness": "0.051",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.03213",
+        "BD (90)": "0.083125",
+        "BA (90)": "0.08314",
+        "K-Factor (up to 170')": "0.407753"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 16 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 16 Ga.",
+        "Index": 12,
+        "Thickness": "0.063",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.03969",
+        "BD (90)": "0.103750",
+        "BA (90)": "0.10163",
+        "K-Factor (up to 170')": "0.396979"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 12 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 12 Ga.",
+        "Index": 13,
+        "Thickness": "0.108",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.06804",
+        "BD (90)": "0.183000",
+        "BA (90)": "0.16908",
+        "K-Factor (up to 170')": "0.366664"
+      }, 
+
+      "STAINLESS STEEL T-304, 24 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 24 Ga.",
+        "Index": 14,
+        "Thickness": "0.025"
+      },
+      
+      "STAINLESS STEEL T-304, 22 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 22 Ga.",
+        "Index": 15,
+        "Thickness": "0.031",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02728",
+        "BD (90)": "0.062625",
+        "BA (90)": "0.05394",
+        "K-Factor (up to 170')": "0.227616"
+      },
+      
+      "STAINLESS STEEL T-304, 20 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 20 Ga.",
+        "Index": 16,
+        "Thickness": "0.038",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.03344",
+        "BD (90)": "0.073125",
+        "BA (90)": "0.06976",
+        "K-Factor (up to 170')": "0.288616"
+      },
+      
+      "STAINLESS STEEL T-304, 16 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 16 Ga.",
+        "Index": 17,
+        "Thickness": "0.063",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.05544",
+        "BD (90)": "0.104625",
+        "BA (90)": "0.13226",
+        "K-Factor (up to 170')": "0.456447"
+      }
+
+    }
+    
+  }, 
+  "Libertyville": { 
+    "Edge Deduction":{
+      "Torsion Spring Panels": ".016"
+    },
+    "Sheet Metal Bending Properties": {
+      "Aluminum 3003-H14, 24 Ga.": {
+        "Name": "Aluminum 3003-H14, 24 Ga.",
+        "Index": 1,
+        "Thickness": "0.02",
+        "Typ Punch Radius": ".001",
+        "Theoretical Radius": "0.001",
+        "BD (90)": "0.0345",
+        "BA (90)": "0.0235",
+        "K-Factor (up to 170')": "0.298028"
+      }
+    }
+  },
+
+  "Johnstown": { 
+    "Edge Deduction":{
+      "Torsion Spring Panels": ".016"
+    },
+    "Sheet Metal Bending Properties": {
+      "Aluminum 3003-H14, 24 Ga.": {
+        "Name": "Aluminum 3003-H14, 24 Ga.",
+        "Index": 1,
+        "Thickness": "0.02",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.009",
+        "BD (90)": "0.0345",
+        "BA (90)": "0.0235",
+        "K-Factor (up to 170')": "0.298028"
+      }, 
+
+      "Aluminum 3003-H14, 20 Ga.": {
+        "Name": "Aluminum 3003-H14, 20 Ga.",
+        "Index": 2,
+        "Thickness": "0.032",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.01440",
+        "BD (90)": "0.05325",
+        "BA (90)": "0.03955",
+        "K-Factor (up to 170')": "0.336822"
+      }, 
+
+      "Aluminum 3003-H14, 18 Ga.": {
+        "Name": "Aluminum 3003-H14, 18 Ga.",
+        "Index": 3,
+        "Thickness": "0.04",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.018",
+        "BD (90)": "0.066",
+        "BA (90)": "0.05",
+        "K-Factor (up to 170')": "0.345775"
+      }, 
+
+      "Aluminum 3003-H14, 16 Ga.": {
+        "Name": "Aluminum 3003-H14, 16 Ga.",
+        "Index": 4,
+        "Thickness": "0.05",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02250",
+        "BD (90)": "0.07938",
+        "BA (90)": "0.06562",
+        "K-Factor (up to 170')": "0.385500"
+      }, 
+
+      "Aluminum 3003-H14, 14 Ga.": {
+        "Name": "Aluminum 3003-H14, 14 Ga.",
+        "Index": 5,
+        "Thickness": "0.064",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02880",
+        "BD (90)": "0.099750",
+        "BA (90)": "0.08585",
+        "K-Factor (up to 170')": "0.403966"
+      }, 
+
+      "Aluminum 3003-H14, 12 Ga.": {
+        "Name": "Aluminum 3003-H14, 12 Ga.",
+        "Index": 6,
+        "Thickness": "0.08",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.0360",
+        "BD (90)": "0.123750",
+        "BA (90)": "0.10825",
+        "K-Factor (up to 170')": "0.411426"
+      }, 
+
+      "Aluminum 3003-H14, 8 Ga.": {
+        "Name": "Aluminum 3003-H14, 8 Ga.",
+        "Index": 7,
+        "Thickness": "0.128",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.05760",
+        "BD (90)": "0.193000",
+        "BA (90)": "0.17820",
+        "K-Factor (up to 170')": "0.436294"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 24 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 24 Ga.",
+        "Index": 8,
+        "Thickness": "0.028",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.01764",
+        "BD (90)": "0.049375",
+        "BA (90)": "0.04191",
+        "K-Factor (up to 170')": "0.322770"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 22 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 22 Ga.",
+        "Index": 9,
+        "Thickness": "0.034",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02142",
+        "BD (90)": "0.055500",
+        "BA (90)": "0.05534",
+        "K-Factor (up to 170')": "0.406192"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 20 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 20 Ga.",
+        "Index": 10,
+        "Thickness": "0.040",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02520",
+        "BD (90)": "0.065500",
+        "BA (90)": "0.06490",
+        "K-Factor (up to 170')": "0.402916"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 18 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 18 Ga.",
+        "Index": 11,
+        "Thickness": "0.051",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.03213",
+        "BD (90)": "0.083125",
+        "BA (90)": "0.08314",
+        "K-Factor (up to 170')": "0.407753"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 16 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 16 Ga.",
+        "Index": 12,
+        "Thickness": "0.063",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.03969",
+        "BD (90)": "0.103750",
+        "BA (90)": "0.10163",
+        "K-Factor (up to 170')": "0.396979"
+      }, 
+
+      "STEEL (S.C.) ASTM A653, 12 Ga.": {
+        "Name": "STEEL (S.C.) ASTM A653, 12 Ga.",
+        "Index": 13,
+        "Thickness": "0.108",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.06804",
+        "BD (90)": "0.183000",
+        "BA (90)": "0.16908",
+        "K-Factor (up to 170')": "0.366664"
+      }, 
+
+      "STAINLESS STEEL T-304, 24 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 24 Ga.",
+        "Index": 14,
+        "Thickness": "0.025"
+      },
+      
+      "STAINLESS STEEL T-304, 22 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 22 Ga.",
+        "Index": 15,
+        "Thickness": "0.031",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.02728",
+        "BD (90)": "0.062625",
+        "BA (90)": "0.05394",
+        "K-Factor (up to 170')": "0.227616"
+      },
+      
+      "STAINLESS STEEL T-304, 20 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 20 Ga.",
+        "Index": 16,
+        "Thickness": "0.038",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.03344",
+        "BD (90)": "0.073125",
+        "BA (90)": "0.06976",
+        "K-Factor (up to 170')": "0.288616"
+      },
+      
+      "STAINLESS STEEL T-304, 16 Ga.": {
+        "Name": "STAINLESS STEEL T-304, 16 Ga.",
+        "Index": 17,
+        "Thickness": "0.063",
+        "Typ Punch Radius": "0.008",
+        "Theoretical Radius": "0.05544",
+        "BD (90)": "0.104625",
+        "BA (90)": "0.13226",
+        "K-Factor (up to 170')": "0.456447"
+      }
+    }
+
+}
+}
+
