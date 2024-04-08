@@ -1,0 +1,550 @@
+[
+  {
+    "Name": "M1",
+    "XCentreToCentre": {
+      "Value": 0.0,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.0,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "None",
+    "HoleDiameter": {
+      "Value": 0.0,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 0.0,
+    "ImageName": "M1.png"
+  },
+  {
+    "Name": "M2",
+    "XCentreToCentre": {
+      "Value": 0.169,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.0845,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.0845,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.059,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 18.0,
+    "ImageName": "M2.png"
+  },
+  {
+    "Name": "M3",
+    "XCentreToCentre": {
+      "Value": 0.197,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.197,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "Straight",
+    "HoleDiameter": {
+      "Value": 0.028,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 1.0,
+    "ImageName": "M3.png"
+  },
+  {
+    "Name": "M4",
+    "XCentreToCentre": {
+      "Value": 0.341,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.1705,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.0985,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "StaggeredCenters",
+    "HoleDiameter": {
+      "Value": 0.157,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 58.0,
+    "ImageName": "M4.png"
+  },
+  {
+    "Name": "M9S",
+    "XCentreToCentre": {
+      "Value": 0.250,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.125,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.2165,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 60.0,
+    "PatternDirection": "StaggeredCenters",
+    "HoleDiameter": {
+      "Value": 0.118,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 20.0,
+    "ImageName": "M9S.png"
+  },
+  {
+    "Name": "M10",
+    "XCentreToCentre": {
+      "Value": 0.217,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.217,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "Straight",
+    "HoleDiameter": {
+      "Value": 0.098,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 16.0,
+    "ImageName": "M10.png"
+  },
+  {
+    "Name": "M11S",
+    "XCentreToCentre": {
+      "Value": 0.256,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.256,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "Straight",
+    "HoleDiameter": {
+      "Value": 0.157,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 29.5,
+    "ImageName": "M11S.png"
+  },
+  {
+    "Name": "M12",
+    "XCentreToCentre": {
+      "Value": 0.197,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.0985,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.0985,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.071,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 20.0,
+    "ImageName": "M12.png"
+  },
+  {
+    "Name": "M14",
+    "XCentreToCentre": {
+      "Value": 0.5,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.5,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "Straight",
+    "HoleDiameter": {
+      "Value": 0.125,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 5.0,
+    "ImageName": "M14.png"
+  },
+  {
+    "Name": "M15",
+    "XCentreToCentre": {
+      "Value": 0.226,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.113,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.113,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.062,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 12.0,
+    "ImageName": "M15.png"
+  },
+  {
+    "Name": "M16",
+    "XCentreToCentre": {
+      "Value": 0.297,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.1485,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.1485,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.062,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 7.0,
+    "ImageName": "M16.png"
+  },
+  {
+    "Name": "M16S",
+    "XCentreToCentre": {
+      "Value": 0.297,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.297,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "Straight",
+    "HoleDiameter": {
+      "Value": 0.062,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 2.0,
+    "ImageName": "M16S.png"
+  },
+  {
+    "Name": "M17",
+    "XCentreToCentre": {
+      "Value": 0.433,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.2165,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.125,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 60.0,
+    "PatternDirection": "StaggeredCenters",
+    "HoleDiameter": {
+      "Value": 0.125,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 23.0,
+    "ImageName": "M17.png"
+  },
+  {
+    "Name": "M18",
+    "XCentreToCentre": {
+      "Value": 0.5,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.25,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.5,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.125,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 10.0,
+    "ImageName": "M18.png"
+  },
+  {
+    "Name": "M19",
+    "XCentreToCentre": {
+      "Value": 0.25,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.5,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "Straight",
+    "HoleDiameter": {
+      "Value": 0.125,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 20.0,
+    "ImageName": "M19.png"
+  },
+  {
+    "Name": "M21",
+    "XCentreToCentre": {
+      "Value": 0.434,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.217,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.217,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.075,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 5.0,
+    "ImageName": "M21.png"
+  },
+  {
+    "Name": "M24",
+    "XCentreToCentre": {
+      "Value": 0.250,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.125,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.125,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.125,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 39.0,
+    "ImageName": "M24.png"
+  },
+  {
+    "Name": "M26",
+    "XCentreToCentre": {
+      "Value": 1.094,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 1.094,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 0.0,
+    "PatternDirection": "Straight",
+    "HoleDiameter": {
+      "Value": 0.56,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 21.0,
+    "ImageName": "M26.png"
+  },
+  {
+    "Name": "M28",
+    "XCentreToCentre": {
+      "Value": 0.157,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.0785,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.0785,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.063,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 25.0,
+    "ImageName": "M28.png"
+  },
+  {
+    "Name": "M29",
+    "XCentreToCentre": {
+      "Value": 0.972,
+      "UnitSystem": "Inches"
+    },
+    "XOffsetPattern": [
+      {
+        "Value": 0.0,
+        "UnitSystem": "Inches"
+      },
+      {
+        "Value": 0.486,
+        "UnitSystem": "Inches"
+      }
+    ],
+    "YOffset": {
+      "Value": 0.486,
+      "UnitSystem": "Inches"
+    },
+    "Angle": 45.0,
+    "PatternDirection": "DiagonalCenters",
+    "HoleDiameter": {
+      "Value": 0.5,
+      "UnitSystem": "Inches"
+    },
+    "OpeningPercent": 42.0,
+    "ImageName": "M29.png"
+  }
+]

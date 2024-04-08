@@ -1,0 +1,161 @@
+[
+  {
+    "Identity": {
+      "Shape": "Rectangular",
+      "SequenceCode": 1,
+      "BlockName": "P1"
+    },
+    "Edges": [
+      {
+        "StartPoint": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "MidPoint": {
+          "X": 12,
+          "Y": 0,
+          "Z": 0
+        },
+        "EndPoint": {
+          "X": 24,
+          "Y": 0,
+          "Z": 0
+        },
+        "TangentAtStart": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "TangentAtEnd": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "Springs": [],
+        "Length": 24
+      },
+      {
+        "StartPoint": {
+          "X": 24,
+          "Y": 0,
+          "Z": 0
+        },
+        "MidPoint": {
+          "X": 24,
+          "Y": 24,
+          "Z": 0
+        },
+        "EndPoint": {
+          "X": 24,
+          "Y": 48,
+          "Z": 0
+        },
+        "TangentAtStart": {
+          "X": 0,
+          "Y": 1,
+          "Z": 0
+        },
+        "TangentAtEnd": {
+          "X": 0,
+          "Y": 1,
+          "Z": 0
+        },
+        "Springs": [
+          {
+            "Origin": {
+              "X": 24,
+              "Y": 6,
+              "Z": 0
+            },
+            "BlockName": "Spring Location (15-16)"
+          },
+          {
+            "Origin": {
+              "X": 24,
+              "Y": 42,
+              "Z": 0
+            },
+            "BlockName": "Spring Location (15-16)"
+          }
+        ],
+        "Length": 48
+      },
+      {
+        "StartPoint": {
+          "X": 24,
+          "Y": 48,
+          "Z": 0
+        },
+        "MidPoint": {
+          "X": 12,
+          "Y": 48,
+          "Z": 0
+        },
+        "EndPoint": {
+          "X": 0,
+          "Y": 48,
+          "Z": 0
+        },
+        "TangentAtStart": {
+          "X": -1,
+          "Y": 0,
+          "Z": 0
+        },
+        "TangentAtEnd": {
+          "X": -1,
+          "Y": 0,
+          "Z": 0
+        },
+        "Springs": [],
+        "Length": 24
+      },
+      {
+        "StartPoint": {
+          "X": 0,
+          "Y": 48,
+          "Z": 0
+        },
+        "MidPoint": {
+          "X": 0,
+          "Y": 24,
+          "Z": 0
+        },
+        "EndPoint": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "TangentAtStart": {
+          "X": 0,
+          "Y": -1,
+          "Z": 0
+        },
+        "TangentAtEnd": {
+          "X": 0,
+          "Y": -1,
+          "Z": 0
+        },
+        "Springs": [
+          {
+            "Origin": {
+              "X": 0,
+              "Y": 42,
+              "Z": 0
+            },
+            "BlockName": "Spring Location (15-16)"
+          },
+          {
+            "Origin": {
+              "X": 0,
+              "Y": 6,
+              "Z": 0
+            },
+            "BlockName": "Spring Location (15-16)"
+          }
+        ],
+        "Length": 48
+      }
+    ]
+  }
+]
