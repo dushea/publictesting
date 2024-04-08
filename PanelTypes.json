@@ -1,5 +1,4 @@
-[
-  {
+{
     "Identity": {
       "Shape": "Rectangular",
       "SequenceCode": 1,
@@ -158,4 +157,3 @@
       }
     ]
   }
-]
