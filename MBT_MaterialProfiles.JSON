@@ -206,7 +206,6 @@
       }
     }
   },
-
   "Johnstown": { 
     "Edge Deduction":{
       "Torsion Spring Panels": ".016"
@@ -394,6 +393,7 @@
         "K-Factor (up to 170')": "0.456447"
       }
     }
+
   },
   "Moz": { 
     "Edge Deduction":{
