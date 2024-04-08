@@ -394,7 +394,33 @@
         "K-Factor (up to 170')": "0.456447"
       }
     }
-
-}
+  },
+  "Moz": { 
+    "Edge Deduction":{
+      "Torsion Spring Panels": ".0"
+    },
+    "Sheet Metal Bending Properties": {
+      "Aluminum 5052-H32, .090": {
+        "Name": "Aluminum 5052-H32, .090",
+        "Index": 1,
+        "Thickness": "0.09",
+        "Typ Punch Radius": ".0625",
+        "Theoretical Radius": "0.0625",
+        "BD (90)": "0.1545",
+        "BA (90)": "0.1505",
+        "K-Factor (up to 170')": "0.37"
+      }, 
+      "Aluminum 5052-H32, .125": {
+        "Name": "Aluminum 5052-H32, .125",
+        "Index": 1,
+        "Thickness": "0.125",
+        "Typ Punch Radius": ".0625",
+        "Theoretical Radius": "0.0625",
+        "BD (90)": "0.19043",
+        "BA (90)": "0.18457",
+        "K-Factor (up to 170')": "0.44"
+      }
+    }
+  }
 }
 
