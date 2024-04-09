@@ -194,15 +194,37 @@
       "Torsion Spring Panels": ".016"
     },
     "Sheet Metal Bending Properties": {
-      "Aluminum 3003-H14, 24 Ga.": {
-        "Name": "Aluminum 3003-H14, 24 Ga.",
+      "Aluminum 3003-H14, .040": {
+        "Name": "Aluminum 3003-H14, .040",
         "Index": 1,
-        "Thickness": "0.02",
-        "Typ Punch Radius": ".001",
+        "Thickness": "0.04",
+        "Typ Punch Radius": ".0001",
         "Theoretical Radius": "0.001",
-        "BD (90)": "0.0345",
-        "BA (90)": "0.0235",
-        "K-Factor (up to 170')": "0.298028"
+        "BD (90)": "0.0655",
+        "BA (90)": "0.165",
+        "K-Factor (up to 170')": "0.26"
+      }, 
+
+      "Aluminum 3003-H14, .063": {
+        "Name": "Aluminum 3003-H14, .063",
+        "Index": 2,
+        "Thickness": "0.063",
+        "Typ Punch Radius": "0.0001",
+        "Theoretical Radius": "0.0001",
+        "BD (90)": "0.11707",
+        "BA (90)": "0.02682",
+        "K-Factor (up to 170')": "0.25515"
+      }, 
+
+      "Galvanneal Steel, .028": {
+        "Name": "Galvanneal Steel, .028",
+        "Index": 3,
+        "Thickness": "0.028",
+        "Typ Punch Radius": "0.0001",
+        "Theoretical Radius": "0.0001",
+        "BD (90)": "0.04707",
+        "BA (90)": "0.0101",
+        "K-Factor (up to 170')": "0.194"
       }
     }
   },
